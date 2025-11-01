@@ -56,5 +56,5 @@ Fast, GPU-accelerated, and easy to use — it’s designed for creators who want
 ### 🧱 **Installation**
 #### 1️⃣ Clone or Download:
 ```bash
-git clone https://github.com/yourusername/ProThumbnailTool.git
+git clone https://github.com/YashvirGaming/Thumbnail-Maker-Tool.git
 cd ProThumbnailTool
