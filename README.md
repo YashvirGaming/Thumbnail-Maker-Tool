@@ -20,7 +20,7 @@ Fast, GPU-accelerated, and easy to use — it’s designed for creators who want
 
 ### 🖼️ **Screenshot**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/demo.png" width="800">
+  <img src="<img width="1586" height="917" alt="image" src="https://github.com/user-attachments/assets/ffd2c4aa-25fb-4c27-a9c4-c8d10c043889" />
 </p>
 
 ---
